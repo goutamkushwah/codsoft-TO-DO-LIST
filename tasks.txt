@@ -1,0 +1,2 @@
+go market
+go school
